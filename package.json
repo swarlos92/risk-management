@@ -7,7 +7,7 @@
   "repository": "https://github.com/swarlos92/test.git",
   "dependencies": {
     "@cap-js/hana": "^1",
-    "@sap-cloud-sdk/http-client": "^3.21.0",
+    "@sap-cloud-sdk/http-client": "^3.24.0",
     "@sap-cloud-sdk/resilience": "3.12.0",
     "@sap/cds": "^8.3.0",
     "@sap/cds-dk": "^8.3.0",
